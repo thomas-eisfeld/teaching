@@ -1,2 +1,2 @@
 # teaching
-All material I have for teaching
+Some useful material for the courses that I teach/taught
